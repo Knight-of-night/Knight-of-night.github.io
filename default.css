@@ -1,0 +1,5 @@
+<pre class="wp-block-code">```
+/**普通指针样式**/  
+body{cursor:url(1.cur),default; }  
+/**链接指针样式**/  
+a:hover{cursor:url(2.cur),pointer;}
