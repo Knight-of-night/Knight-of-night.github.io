@@ -1,0 +1,57 @@
+html{
+        height:100%;
+    }
+    body{
+        padding: 0;
+        margin: 0;
+        background: url(http://adanelia.xyz/articles/assets/bg.jpg);
+        background-size: 100% 100%;
+    }
+
+.header,.footer {
+	width: 100%;
+	}
+.header {
+	background-color: #00a2e8;
+	font-size: 26px;
+	opacity: 0.8;
+	}
+.nav {
+	margin: 50px 100px 0 100px;
+	background-color: #ffb9ab;
+	height: 36px;
+	}
+.nav>div {
+	display: inline-block;
+	width: 20%
+	}
+.banner {
+	width: 80%;
+	min-height:16px;
+	}
+.content {
+	width:80%;
+	height: 500px;
+	background-color: #00a2e8;
+	opacity: 0.8;
+	}
+.foot {
+	width:80%;
+	height: 100px;
+	background-color: yellow;
+	}
+
+a:link {
+	text-decoration:none;
+	color:red;
+	}
+a:hover {
+	color:blue;
+	}
+a:active {
+	color:yellow;
+	}
+a:visited {
+	color:green;
+	text-decoration:none;
+	}
