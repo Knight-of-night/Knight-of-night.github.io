@@ -12,13 +12,13 @@ html{
 	width: 100%;
 	}
 .header {
-	background-color: #00a2e8;
+	background-color: #1d2152;
 	font-size: 26px;
 	opacity: 0.8;
 	}
 .nav {
 	margin: 50px 100px 0 100px;
-	background-color: #ffb9ab;
+	background-color: #dddff1;
 	height: 36px;
 	}
 .nav>div {
@@ -32,13 +32,13 @@ html{
 .content {
 	width:80%;
 	height: 500px;
-	background-color: #00a2e8;
+	background-color: #515eb7;
 	opacity: 0.8;
 	}
 .foot {
 	width:80%;
 	height: 100px;
-	background-color: yellow;
+	background-color: #1d2152;
 	}
 
 a:link {
