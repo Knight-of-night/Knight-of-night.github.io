@@ -20,13 +20,13 @@ body{
 .head {
 	text-align: left;
 	font-size: 46px;
-	margin: 0 250px 0 150px;
+	width:80%;
 	color: #f9f7f7;
 }
 .nav {
 	margin: 50px 100px 0 100px;
 	background-color: #dddff1;
-	height: 36px;
+	min-height: 36px;
 	color: #1d2152;
 }
 .nav>div {
